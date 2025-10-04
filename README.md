@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="DEBANGSHU DAS (5)" src="https://github.com/user-attachments/assets/a3da6a6c-82c4-4b19-ad5c-c7e262a8ceda" />
+
 <h1 align="center">👋 Hi, I'm Debangshu</h1>
 <h3 align="center">Backend | DevOps | Gen AI</h3>
 <div align="center">
