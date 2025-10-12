@@ -9,6 +9,8 @@
   <a href="https://x.com/debangshu919" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28"/>
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=debangshu919&style=for-the-badge&label=PROFILE+VIEWS&color=blue&abbreviated=true" alt="Views" width="150"/>
 </div>
 
 ---
