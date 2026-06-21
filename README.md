@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/debangshu919/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
-  <a href="https://x.com/debangshu919" target="_blank" rel="noopener">
+  <a href="https://x.com/itzchromavision" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28"/>
   </a>
   <br/>
