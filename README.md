@@ -7,6 +7,15 @@ Building software for fun.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chromadotdev)
 [![Email](https://img.shields.io/badge/debangshudas63yt%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
 
+### Stats
+
+<a href="https://github.com/debangshu919">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=debangshu919&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" />
+</a>
+<a href="https://github.com/debangshu919">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debangshu919&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</a>
+
 ### Recent activity
 
 <!--START_SECTION:activity-->
