@@ -2,10 +2,10 @@
 
 Building software for fun.
 
-[![debangshu.dev](https://img.shields.io/badge/debangshu.dev-111111?style=flat)](https://debangshu.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu919/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/chromadotdev)
-[![Email](https://img.shields.io/badge/debangshudas63yt%40gmail.com-555555?style=flat&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
+[![debangshu.dev](https://img.shields.io/badge/debangshu.dev-111111?style=for-the-badge)](https://debangshu.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu919/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chromadotdev)
+[![Email](https://img.shields.io/badge/debangshudas63yt%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
 
 ### Recent activity
 
