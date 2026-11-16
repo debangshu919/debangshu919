@@ -1,62 +1,70 @@
-<img width="1584" height="396" alt="DEBANGSHU DAS (5)" src="https://github.com/user-attachments/assets/a3da6a6c-82c4-4b19-ad5c-c7e262a8ceda" />
+# Hi, I'm Debangshu
 
-<h1 align="center">👋 Hi, I'm Debangshu</h1>
-<h3 align="center">Backend | DevOps | Gen AI</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/debangshu919/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
-  <a href="https://x.com/itzchromavision" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28"/>
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=debangshu919&style=for-the-badge&label=PROFILE+VIEWS&color=blue&abbreviated=true" alt="Views" width="150"/>
-</div>
+**India** | Building software for fun
 
----
+I build backend services, CLIs, and contribute to open source projects. Mostly Rust, TypeScript, and Python and Go.
 
-### About Me
-- Currently pursuing **B.Tech** in **Computer Science & Engineering**
-- Passionate about **System Design** and **DevOps**
-- Reach me at: [debangshudas63yt@gmail.com](mailto:debangshudas63yt@gmail.com)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
+## Start Here
 
-### Tech Stack
-<div align="center">
+- **[ffez](https://github.com/debangshu919/ffez)** - minimal FFmpeg CLI for everyday audio and video tasks
+- **[CredenceAI](https://github.com/debangshu919/credence-ai)** - fact checking and claim verification
+- **[CodeRev](https://github.com/debangshu919/coderev)** - AI code review assistant
+- **[Lyrix.js](https://github.com/lyrixjs/lyrix-js)** - lyrics retrieval and translation
+- **[Apache Iggy](https://github.com/apache/iggy)** - contributing to the streaming project
 
-|     |     |
-| :-: | :-: |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />|
-| **Frameworks / Libraries** | <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30" height="30" /> </a> <a href="https://nestjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="30" height="30" /> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="30" height="30" /> </a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30" /> </a> <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" /> </a> <a href="https://discord.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="30" height="30" /> </a> |
-| **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" /> |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" /> |
-| **Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30" /> |
-| **IDEs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30" /> <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" alt="Cursor" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="30" height="30" /> |
-</div>
+## Current Projects
 
----
+### CLIs
 
-### GitHub Stats
+- **[ffez](https://github.com/debangshu919/ffez)** - minimal FFmpeg CLI. Also on [crates.io](https://crates.io/crates/ffez)
+- **[chatbotLM](https://github.com/debangshu919/chatbotLM)** - talk to open-source models from the terminal
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debangshu919&theme=github_dark" alt="Profile Details" height="171" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debangshu919&theme=github_dark" alt="Top Commit Language" height="175" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debangshu919&theme=github_dark" alt="Top Repo Language" height="175" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debangshu919&theme=github_dark" height="175" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debangshu919&theme=github_dark&utcOffset=8" alt="Top Repo Language" height="175" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=debangshu919&theme=github-dark-blue&short_numbers=true&mode=weekly&card_width=600&card_height=171&hide_border=true" alt="GitHub Streak" />
-</div>
+### Web
 
----
-### Github Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=debangshu919&theme=onestar&no-frame=true&margin-w=12&row=1&column=5" alt="trophies"/>
-</div>
+- **[ffez-web](https://github.com/debangshu919/ffez-web)** - landing page for ffez ([ffez.debangshu.dev](https://ffez.debangshu.dev))
+- **[credence-ai](https://github.com/debangshu919/credence-ai)** - fact checking and claim verification
+- **[coderev](https://github.com/debangshu919/coderev)** - AI code review assistant ([coderev.debangshu.dev](https://coderev.debangshu.dev))
+- **[wampus](https://github.com/debangshu919/wampus)** - Discord bot that answers from the thread ([wampus.site](https://wampus.site))
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="quote">
-</div>
+### Open Source
+
+- **[Apache Iggy](https://github.com/apache/iggy/pull/4616)** - exposed snapshot support in the Python client
+- **[PreMiD Activities](https://github.com/PreMiD/Activities/pull/11229)** - Discord presence for takeUforward
+- **[MetaCall FaaS](https://github.com/metacall/faas/pull/163)** - delete endpoint now returns JSON
+- **[MetaCall deploy](https://github.com/metacall/deploy/pull/254)** - documented missing CLI args
+- **[Reflex](https://github.com/reflex-dev/reflex/pull/6037)** - clipboard paste handler in dynamic components
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=debangshu919&hide_border=true)
+
+<!--START_SECTION:activity-->
+1. Merged PR [#4616](https://github.com/apache/iggy/pull/4616) in [apache/iggy](https://github.com/apache/iggy)
+2. Opened PR [#1](https://github.com/debangshu919/ffez/pull/1) in [debangshu919/ffez](https://github.com/debangshu919/ffez)
+3. Opened PR [#4616](https://github.com/apache/iggy/pull/4616) in [apache/iggy](https://github.com/apache/iggy)
+4. Published [v0.1.0](https://github.com/debangshu919/ffez/releases/tag/v0.1.0) in [debangshu919/ffez](https://github.com/debangshu919/ffez)
+<!--END_SECTION:activity-->
+
+## What I'm Doing
+
+- **Shipping tools** - CLIs and backend services, then putting them on [debangshu.dev](https://debangshu.dev)
+- **Open source** - pull requests on larger projects, including Apache Iggy
+- **Learning in public** - Rust, TypeScript, Python, and Go
+
+## Connect
+
+[![debangshu.dev](https://img.shields.io/badge/-debangshu.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://debangshu.dev)
+[![X](https://img.shields.io/badge/-chromadotdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chromadotdev)
+<a href="https://www.linkedin.com/in/debangshu919/"><img alt="LinkedIn" src="assets/linkedin-badge.png" height="20" /></a>
+[![Email](https://img.shields.io/badge/debangshudas63yt%40gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
