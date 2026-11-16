@@ -40,7 +40,6 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 ### Open Source
 
 - **[Apache Iggy](https://github.com/apache/iggy/pull/4616)** - exposed snapshot support in the Python client
-- **[Lyrix.js](https://github.com/lyrixjs/lyrix-js)** - lyrics providers and a move onto LangChain
 - **[PreMiD Activities](https://github.com/PreMiD/Activities/pull/11229)** - Discord presence for takeUforward
 - **[MetaCall FaaS](https://github.com/metacall/faas/pull/163)** - delete endpoint now returns JSON
 - **[MetaCall deploy](https://github.com/metacall/deploy/pull/254)** - documented missing CLI args
