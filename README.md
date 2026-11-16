@@ -67,5 +67,5 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 
 [![debangshu.dev](https://img.shields.io/badge/-debangshu.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://debangshu.dev)
 [![X](https://img.shields.io/badge/-chromadotdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chromadotdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu919/)
+<a href="https://www.linkedin.com/in/debangshu919/"><img alt="LinkedIn" src="assets/linkedin-badge.png" height="20" /></a>
 [![Email](https://img.shields.io/badge/debangshudas63yt%40gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
