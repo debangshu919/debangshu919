@@ -2,7 +2,7 @@
 
 **India** | Building software for fun
 
-I build backend services, CLIs, and open source. Mostly Rust, TypeScript, and Python.
+I build backend services, CLIs, and contribute to open source projects. Mostly Rust, TypeScript, and Python and Go.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,7 +18,6 @@ I build backend services, CLIs, and open source. Mostly Rust, TypeScript, and Py
 ## Start Here
 
 - **[ffez](https://github.com/debangshu919/ffez)** - minimal FFmpeg CLI for everyday audio and video tasks
-- **[authzey](https://github.com/debangshu919/authzey)** - set up authentication in Next.js from the terminal
 - **[CredenceAI](https://github.com/debangshu919/credence-ai)** - fact checking and claim verification
 - **[CodeRev](https://github.com/debangshu919/coderev)** - AI code review assistant
 - **[Lyrix.js](https://github.com/lyrixjs/lyrix-js)** - lyrics retrieval and translation
@@ -29,9 +28,7 @@ I build backend services, CLIs, and open source. Mostly Rust, TypeScript, and Py
 ### CLIs
 
 - **[ffez](https://github.com/debangshu919/ffez)** - minimal FFmpeg CLI. Also on [crates.io](https://crates.io/crates/ffez)
-- **[authzey](https://github.com/debangshu919/authzey)** - pluggable auth setup for Next.js
 - **[chatbotLM](https://github.com/debangshu919/chatbotLM)** - talk to open-source models from the terminal
-- **[transcodex](https://github.com/debangshu919/transcodex)** - developer focused video tooling
 
 ### Web
 
@@ -64,11 +61,11 @@ I build backend services, CLIs, and open source. Mostly Rust, TypeScript, and Py
 
 - **Shipping tools** - CLIs and backend services, then putting them on [debangshu.dev](https://debangshu.dev)
 - **Open source** - pull requests on larger projects, including Apache Iggy
-- **Learning in public** - Rust, TypeScript, and Python, in that mix
+- **Learning in public** - Rust, TypeScript, Python, and Go
 
 ## Connect
 
 [![debangshu.dev](https://img.shields.io/badge/-debangshu.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://debangshu.dev)
 [![X](https://img.shields.io/badge/-chromadotdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chromadotdev)
-[![LinkedIn](https://img.shields.io/badge/-Debangshu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu919/)
-[![Email](https://img.shields.io/badge/-debangshudas63yt@gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshu919/)
+[![Email](https://img.shields.io/badge/debangshudas63yt%40gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:debangshudas63yt@gmail.com)
