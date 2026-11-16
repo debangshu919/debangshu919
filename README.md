@@ -50,9 +50,6 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=debangshu919&hide_border=true)
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=debangshu919&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=debangshu919&layout=compact&langs_count=6&theme=dark_github)
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=debangshu919&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=debangshu919&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
-
 <!--START_SECTION:activity-->
 1. Merged PR [#4616](https://github.com/apache/iggy/pull/4616) in [apache/iggy](https://github.com/apache/iggy)
 2. Opened PR [#1](https://github.com/debangshu919/ffez/pull/1) in [debangshu919/ffez](https://github.com/debangshu919/ffez)
