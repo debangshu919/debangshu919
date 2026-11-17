@@ -171,7 +171,7 @@ class BadgeTest(unittest.TestCase):
         self.assertEqual(
             line,
             "[![issues opened](https://img.shields.io/badge/issues_opened-12-D1242F"
-            "?style=flat-square&labelColor=D1242F&logo=github&logoColor=white)]"
+            "?style=flat-square&logo=github&logoColor=white)]"
             "(https://github.com/search?q=author%3Adebangshu919+is%3Aissue&type=issues)",
         )
 
