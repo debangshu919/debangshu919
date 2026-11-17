@@ -189,16 +189,16 @@ class BadgeTest(unittest.TestCase):
         labels = [
             "2026 public commits",
             "all time public commits",
-            "public prs",
-            "merged prs",
+            "public PRs",
+            "merged PRs",
             "issues opened",
         ]
         positions = [body.index(label) for label in labels]
         self.assertEqual(positions, sorted(positions))
         self.assertIn("2026_public_commits-412-2DA44E", body)
         self.assertIn("all_time_public_commits-838-0969DA", body)
-        self.assertIn("public_prs-43-8250DF", body)
-        self.assertIn("merged_prs-37-1A7F37", body)
+        self.assertIn("public_PRs-43-8250DF", body)
+        self.assertIn("merged_PRs-37-1A7F37", body)
         self.assertIn("issues_opened-12-D1242F", body)
         self.assertIn("type=commits", body)
         self.assertIn("type=pullrequests", body)

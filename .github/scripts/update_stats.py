@@ -142,9 +142,9 @@ def render_badges(counts, user):
             author,
             "commits",
         ),
-        ("public prs", "8250DF", counts["prs"], f"{author} is:pr", "pullrequests"),
+        ("public PRs", "8250DF", counts["prs"], f"{author} is:pr", "pullrequests"),
         (
-            "merged prs",
+            "merged PRs",
             "1A7F37",
             counts["merged"],
             f"{author} is:pr is:merged",
