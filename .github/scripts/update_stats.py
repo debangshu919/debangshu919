@@ -120,7 +120,7 @@ def badge_line(label, color, value, query, kind):
     slug = label.replace(" ", "_")
     image = (
         f"https://img.shields.io/badge/{slug}-{value}-{color}"
-        "?style=flat-square&logo=github&logoColor=white"
+        f"?style=flat-square&labelColor={color}&logo=github&logoColor=white"
     )
     return f"[![{label}]({image})]({search_link(query, kind)})"
 
