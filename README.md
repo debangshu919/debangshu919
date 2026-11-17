@@ -7,8 +7,16 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+<!--START_SECTION:stats-->
+[![2026 public commits](https://img.shields.io/badge/2026_public_commits-412-2DA44E?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+author-date%3A2026-01-01..2026-12-31&type=commits)
+[![all time public commits](https://img.shields.io/badge/all_time_public_commits-838-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919&type=commits)
+[![public PRs](https://img.shields.io/badge/public_PRs-43-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr&type=pullrequests)
+[![merged PRs](https://img.shields.io/badge/merged_PRs-37-1A7F37?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr+is%3Amerged&type=pullrequests)
+[![issues opened](https://img.shields.io/badge/issues_opened-12-D1242F?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Aissue&type=issues)
+<!--END_SECTION:stats-->
 
 ## Start Here
 
