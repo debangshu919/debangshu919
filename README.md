@@ -10,6 +10,14 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+<!--START_SECTION:stats-->
+[![2026 public commits](https://img.shields.io/badge/2026_public_commits-412-2DA44E?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+author-date%3A2026-01-01..2026-12-31&type=commits)
+[![all time public commits](https://img.shields.io/badge/all_time_public_commits-838-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919&type=commits)
+[![public prs](https://img.shields.io/badge/public_prs-43-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr&type=pullrequests)
+[![merged prs](https://img.shields.io/badge/merged_prs-37-1A7F37?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr+is%3Amerged&type=pullrequests)
+[![issues opened](https://img.shields.io/badge/issues_opened-12-D1242F?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Aissue&type=issues)
+<!--END_SECTION:stats-->
+
 ## Start Here
 
 - **[ffez](https://github.com/debangshu919/ffez)** - minimal FFmpeg CLI for everyday audio and video tasks
