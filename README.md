@@ -11,10 +11,10 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 <!--START_SECTION:stats-->
-[![2026 public commits](https://img.shields.io/badge/2026_public_commits-421-2DA44E?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+author-date%3A2026-01-01..2026-12-31&type=commits)
-[![all time public commits](https://img.shields.io/badge/all_time_public_commits-847-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919&type=commits)
-[![public PRs](https://img.shields.io/badge/public_PRs-46-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr&type=pullrequests)
-[![merged PRs](https://img.shields.io/badge/merged_PRs-39-1A7F37?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr+is%3Amerged&type=pullrequests)
+[![2026 public commits](https://img.shields.io/badge/2026_public_commits-430-2DA44E?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+author-date%3A2026-01-01..2026-12-31&type=commits)
+[![all time public commits](https://img.shields.io/badge/all_time_public_commits-856-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919&type=commits)
+[![public PRs](https://img.shields.io/badge/public_PRs-54-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr&type=pullrequests)
+[![merged PRs](https://img.shields.io/badge/merged_PRs-43-1A7F37?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Apr+is%3Amerged&type=pullrequests)
 [![issues opened](https://img.shields.io/badge/issues_opened-12-D1242F?style=flat-square&logo=github&logoColor=white)](https://github.com/search?q=author%3Adebangshu919+is%3Aissue&type=issues)
 <!--END_SECTION:stats-->
 
@@ -53,11 +53,11 @@ I build backend services, CLIs, and contribute to open source projects. Mostly R
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=debangshu919&hide_border=true)
 
 <!--START_SECTION:activity-->
-1. Opened PR [#306](https://github.com/metabrainz/picard-docs/pull/306) in [metabrainz/picard-docs](https://github.com/metabrainz/picard-docs)
-2. Merged PR [#3619](https://github.com/metabrainz/picard/pull/3619) in [metabrainz/picard](https://github.com/metabrainz/picard)
-3. Opened PR [#3619](https://github.com/metabrainz/picard/pull/3619) in [metabrainz/picard](https://github.com/metabrainz/picard)
-4. Merged PR [#2](https://github.com/debangshu919/debangshu919/pull/2) in [debangshu919/debangshu919](https://github.com/debangshu919/debangshu919)
-5. Opened PR [#2](https://github.com/debangshu919/debangshu919/pull/2) in [debangshu919/debangshu919](https://github.com/debangshu919/debangshu919)
+1. Merged PR [#306](https://github.com/metabrainz/picard-docs/pull/306) in [metabrainz/picard-docs](https://github.com/metabrainz/picard-docs)
+2. Opened PR [#8](https://github.com/debangshu919/gitwatch/pull/8) in [debangshu919/gitwatch](https://github.com/debangshu919/gitwatch)
+3. Opened PR [#7](https://github.com/debangshu919/gitwatch/pull/7) in [debangshu919/gitwatch](https://github.com/debangshu919/gitwatch)
+4. Merged PR [#3](https://github.com/debangshu919/gitwatch/pull/3) in [debangshu919/gitwatch](https://github.com/debangshu919/gitwatch)
+5. Opened PR [#6](https://github.com/debangshu919/gitwatch/pull/6) in [debangshu919/gitwatch](https://github.com/debangshu919/gitwatch)
 <!--END_SECTION:activity-->
 
 ## What I'm Doing
